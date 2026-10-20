@@ -69,6 +69,21 @@ The project uses the Olist Brazilian E-Commerce Public Dataset.
 
 Source: [Brazilian E-Commerce Public Dataset by Olist — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+
+## Power BI Dashboard
+
+### 1. Executive Overview
+
+![Executive Overview](powerbi/images/dashboard_overview.png)
+
+### 2. Product Performance
+
+![Product Performance](powerbi/images/product_performance.png)
+
+### 3. Customer & Seller Performance
+
+![Customer & Seller Performance](powerbi/images/customer_seller_performance.png)
+
 ## Notes
 
 This is a portfolio project for practicing SQL, Python, data analysis, and business intelligence using real-world e-commerce data.
